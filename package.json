@@ -1,0 +1,12 @@
+{
+  "name": "cloud-deployment-lab",
+  "version": "1.0.0",
+  "description": "A simple Dockerized web app deployed on AWS EC2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
